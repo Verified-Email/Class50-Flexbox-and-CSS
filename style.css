@@ -1,0 +1,41 @@
+h1{
+    color: red;
+}
+h2{
+    color: rgb(129, 190, 129);
+}
+body{
+    border: solid;
+}
+.header{
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    margin-top: 20px;
+}
+.item{
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.links{
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+#instagram{
+    margin-left: -250px;
+}
+#facebook{
+    margin-left: -250px;
+}
+#youtube{
+    margin-left: -250px;
+}
